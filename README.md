@@ -1,6 +1,7 @@
 # Distribution Analysis For EV'S
 
-![download](https://github.com/user-attachments/assets/4f190b27-b61f-4b98-8925-bf7612a90fc1)
+![Ev](https://github.com/user-attachments/assets/c8a84d3c-bc8c-4e7c-b631-b3693849d4ca)
+
 
 **Business**
 EVCharge Utilities is a prominent electric utility provider.The company's Primary mission is to ensure reliabl delivery of electrical power to millions of customers.
