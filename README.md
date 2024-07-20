@@ -1,9 +1,13 @@
-***Distribution Analysis For EV'S***
+### Distribution Analysis For EV'S ###
+
 
 ![Ev](https://github.com/user-attachments/assets/c8a84d3c-bc8c-4e7c-b631-b3693849d4ca)
 
 
-***Business***
+
+
+
+## Business ##
 
 
 EVCharge Utilities is a prominent electric utility provider.The company's Primary mission is to ensure reliabl delivery of electrical power to millions of customers.
@@ -11,7 +15,10 @@ EVCharge Utilities is a prominent electric utility provider.The company's Primar
 The company has witnessed a significant Transformation in adoption of EV's as part of global efforts to reduce Carbon emissions and climate change
 
 
-***Business Problem***
+
+
+
+## Business Problem
 
 EVCharge Utilites encounters several critical challenges due to growing adoption of EV'S
 
@@ -33,7 +40,9 @@ Balancing increased load demand.Company must optimize network to manage epense e
 
 
 
-***Scope of Project***
+
+
+## Scope of Project
 
 
 1.Exploratory Data Analysis
@@ -50,9 +59,12 @@ Present Insights,network upgrdes to  executive members for decisions
 
 
 
-***Exploratory Data Analysis***
 
-**univariate Analysis**
+## Exploratory Data Analysis
+
+
+
+# univariate Analysis
 
 
 1.visualize the distribution of elctricity consumption
@@ -63,7 +75,10 @@ Present Insights,network upgrdes to  executive members for decisions
 ![Screenshot 2024-07-21 002445](https://github.com/user-attachments/assets/03890419-edda-4e9a-943d-573c8533075d)
 
 
-**BiVariate Analysis**
+
+# BiVariate Analysis
+
+
 
 
 1.use geospitial_data to visualize locations of substations and EV charging stations.
@@ -72,15 +87,19 @@ Present Insights,network upgrdes to  executive members for decisions
 ![Screenshot 2024-07-21 005535](https://github.com/user-attachments/assets/8fabc63d-eabf-4277-a69c-4afebc7d4c98)
 
 
+
+
 Zoom in One substation and its associated Ev Charging Stations
 
 
 ![Screenshot 2024-07-21 004848](https://github.com/user-attachments/assets/0ae14ee3-080b-4fbf-a661-71a41b242fdd)
 
 
+
 **Observation:**
 
 Ev Charging station is far from it's Substation, this could be contributing factor to grid overload.
+
 
 
 
@@ -91,12 +110,18 @@ Ev Charging station is far from it's Substation, this could be contributing fact
 ![Screenshot 2024-07-21 010125](https://github.com/user-attachments/assets/16ee5cad-d5a9-4fb8-8399-1067f04a09bb)
 
 
-**Correlatio_ratio**
+
+
+
+# Correlatio_ratio
 
 Calculate correlation b/w Number of EV'S and Consumption Ratio
 
 
 ![Screenshot 2024-07-21 004937](https://github.com/user-attachments/assets/f8c05d51-50f9-4d94-a69f-7c8270b4b106)
+
+
+
 
 
 **OBSERVATIONS:**
@@ -110,14 +135,20 @@ The Map above shows Consumption_to_Capacity_Ratio for each Substation
 ---The Correlation between EV's to overload is weak.so it can't uantified as teh reasons for overload.
 
 
-**OPTIMIZING NETWORK Upgrades**
+
+
+
+## OPTIMIZING NETWORK Upgrades
 
 --- Upgrading transmission_lines/additional capacity in these areas can help in managing the increase load and grid reliability.
 
 -- Geographical distributions of EV Charging stations because EV Stations are far from Substations.
 
 
-**Correlation With Weather Data**
+
+
+
+# Correlation With Weather Data
 
 Analying correlation between Weather data and electricity consumption can provide insights into how weather affects distribution network.
 
@@ -128,7 +159,11 @@ The Correlation matrix shows the coefficients between Electricity,temperature an
 Visualize  correlation relationship b/w Electricity, Temperature and Preciption
 
 
+
 ![Screenshot 2024-07-21 005035](https://github.com/user-attachments/assets/6b3b8d4c-ce52-4dd8-a872-8f29b6746fee)
+
+
+
 
 **OBSERVATIONS:**
 
@@ -137,7 +172,10 @@ Based on dataset,weather conditions have weak correlation with electricity consu
 Its important to consider weather data because etreme weather conditions can impact on distribution network.
 
 
-**Recommendations**
+
+
+
+### Recommendations
 
 This is based on the analysis done and the business problems at hand, all these should be incorporated into the business.
 
