@@ -7,12 +7,16 @@
 
 
 
+
+
 ## Business ##
 
 
 EVCharge Utilities is a prominent electric utility provider.The company's Primary mission is to ensure reliabl delivery of electrical power to millions of customers.
 
 The company has witnessed a significant Transformation in adoption of EV's as part of global efforts to reduce Carbon emissions and climate change
+
+
 
 
 
@@ -44,6 +48,9 @@ Balancing increased load demand.Company must optimize network to manage epense e
 
 
 
+
+
+
 ## Scope of Project
 
 
@@ -65,6 +72,9 @@ Present Insights,network upgrdes to  executive members for decisions
 
 
 
+
+
+
 # univariate Analysis
 
 
@@ -77,6 +87,10 @@ Present Insights,network upgrdes to  executive members for decisions
 
 
 ![Screenshot 2024-07-21 002445](https://github.com/user-attachments/assets/03890419-edda-4e9a-943d-573c8533075d)
+
+
+
+
 
 
 
@@ -112,6 +126,8 @@ Ev Charging station is far from it's Substation, this could be contributing fact
 
 
 
+
+
 **2.Analyze capacity of transmission lines**
 
 
@@ -119,6 +135,9 @@ Ev Charging station is far from it's Substation, this could be contributing fact
 
 
 ![Screenshot 2024-07-21 010125](https://github.com/user-attachments/assets/16ee5cad-d5a9-4fb8-8399-1067f04a09bb)
+
+
+
 
 
 
@@ -157,6 +176,9 @@ The Map above shows Consumption_to_Capacity_Ratio for each Substation
 
 
 
+
+
+
 ## OPTIMIZING NETWORK Upgrades
 
 
@@ -164,6 +186,11 @@ The Map above shows Consumption_to_Capacity_Ratio for each Substation
 
 
 -- Geographical distributions of EV Charging stations because EV Stations are far from Substations.
+
+
+
+
+
 
 
 
@@ -200,26 +227,58 @@ Its important to consider weather data because etreme weather conditions can imp
 
 
 
+
+
+
 ### Recommendations
+
 
 This is based on the analysis done and the business problems at hand, all these should be incorporated into the business.
 
+
+
 **Prioritize Substation Upgrades:**    Prioritize upgrades at substations where the Consumption_to_Capacity_Ratio is high, indicating potential overloads. Upgrade the transmission lines because the subsataions are too far from their corresponding Substations.
+
+
+
+
 
 **Geospatial Analysis for Upgrade Planning:**   Use geospatial analysis to determine the optimal locations for new substations or upgrades to existing ones. Consider factors like the proximity to high load demand areas (areas with high consumption to capcity ratio) and geographical constraints.
 
+
+
+
+
 **Demand Side Management:**   Implement demand-side management strategies to balance the load on the grid. Encourage customers to charge their EVs during off-peak hours through incentives or dynamic pricing.
+
+
+
 
 **Advanced Monitoring and Analytics:**   Deploy advanced monitoring systems to continuously monitor the health and performance of the distribution network. Use analytics to predict potential issues and take preventive action.
 
+
+
+
 **Cost-Benefit Analysis:**   Conduct a comprehensive cost-benefit analysis for different upgrade options. Consider factors like the cost of upgrades, operational costs, potential revenue from increased capacity, and the impact on service reliability and customer satisfaction.
 
+
+
+
 **Customer Engagement:**   Engage with customers to understand their needs and expectations. Provide clear communication about network upgrades and how they will enhance service reliability and meet the growing demand for EV charging.
+
+
+
 
 **Continuous Improvement:**   Continuously monitor and assess the performance of the distribution network. Gather feedback from customers and other stakeholders, and use this feedback to make further improvements and optimizations.
 
 
+
+
+
+
 ### CONCLUSION 
+
+
 
 By following these steps, EVCharge Utilities can develop an effective optimization strategy to manage the increased load demand from EV charging stations, ensure the reliability and resilience of the distribution network, and meet the expectations of customers, all while optimizing costs and ensuring regulatory compliance.
 
